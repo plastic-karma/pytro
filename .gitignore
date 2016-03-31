@@ -1,0 +1,15 @@
+
+.idea/modules.xml
+
+*.iml
+
+.idea/workspace.xml
+
+.idea/misc.xml
+
+.idea/encodings.xml
+
+.idea/.name
+
+pytro/__pychage__/*
+*.pyc
